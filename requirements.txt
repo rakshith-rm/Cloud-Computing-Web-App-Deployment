@@ -1,6 +1,7 @@
 addict==2.4.0
 argon2-cffi==20.1.0
 arrow==1.1.0
+python==3.7
 asgiref==3.2.7
 attrs==19.3.0
 backcall==0.2.0
